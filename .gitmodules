@@ -1,0 +1,3 @@
+[submodule "Course08Developing-Applications-with-SQL-Databases-and-Django/DjangoFirstApp"]
+	path = Course08Developing-Applications-with-SQL-Databases-and-Django/DjangoFirstApp
+	url = git@github.com:asmetes/DjangoFirstApp.git
