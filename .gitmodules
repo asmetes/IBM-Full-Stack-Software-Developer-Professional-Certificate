@@ -1,0 +1,12 @@
+[submodule "Course05Developing-Back-End-Apps-with-Nodejs-and-Express/expressBookReviews"]
+	path = Course05Developing-Back-End-Apps-with-Nodejs-and-Express/expressBookReviews
+	url = git@github.com:asmetes/expressBookReviews.git
+[submodule "Course04Developing-Front-End-Apps-with-React/uqwxd-react_labs"]
+	path = Course04Developing-Front-End-Apps-with-React/uqwxd-react_labs
+	url = git@github.com:asmetes/uqwxd-react_labs.git
+[submodule "Course03Getting-Started-with-Git-and-GitHub/github-final-project"]
+	path = Course03Getting-Started-with-Git-and-GitHub/github-final-project
+	url = git@github.com:asmetes/github-final-project.git
+[submodule "Course02Introduction-to-Web-Development/gkpbt-css-circle"]
+	path = Course02Introduction-to-Web-Development/gkpbt-css-circle
+	url = git@github.com:asmetes/gkpbt-css-circle.git
